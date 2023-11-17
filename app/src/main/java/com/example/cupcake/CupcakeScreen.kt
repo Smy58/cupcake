@@ -80,3 +80,11 @@ fun CupcakeApp(
 
     }
 }
+
+enum class CupcakeScreen() {
+    Start,
+    Flavor,
+    Pickup,
+    Summary
+}
+
